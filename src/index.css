@@ -1,0 +1,23 @@
+button{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(65, 108, 106);
+    font-size: 2em;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.mydiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.win{
+    color: rgb(106, 242, 106);
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
